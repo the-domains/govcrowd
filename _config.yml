@@ -2,6 +2,7 @@ name: GovCrowd
 favicon: null
 layout_spectrum: 0.6271357994992286
 typography_spectrum: 0.005142048466950655
+title: GovCrowd
 cta:
   domain: null
   bucket: null
