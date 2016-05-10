@@ -1,0 +1,28 @@
+name: GovCrowd
+favicon: null
+layout_spectrum: 0.6271357994992286
+typography_spectrum: 0.005142048466950655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6115043400786817
+  lightness: 0.27378110284917057
+  saturation: 0.29891089303418994
+  rhythmicContrast: 0.3220019137952477
+purpose: []
